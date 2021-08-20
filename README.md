@@ -11,7 +11,7 @@ O usuário deve instalar o XAMPP em https://www.apachefriends.org/pt_br/index.ht
 
 ## Execução
 
-Para se conectar ao aplicativo deve-se iniciar o XAMPP, iniciar o módulo do Apache e depois o do MySQL, abrir o terminal dentro da pasta do arquivo, digitar <php artisan serve>, acessar o endereço IP que consta no terminal junto com a porta e digitar o endereço do subdiretório "pesquisa".
+Para se conectar ao aplicativo deve-se iniciar o XAMPP, iniciar o módulo do Apache e depois o do MySQL, abrir o terminal dentro da pasta do arquivo, digitar ```php artisan serve``` e ```php artisan migrate```, acessar o endereço IP que consta no terminal junto com a porta e digitar o endereço do subdiretório "pesquisa".
   
 Exemplo: http://127.0.0.1:8000/pesquisa
 
