@@ -1,3 +1,23 @@
+## Instalação
+
+O usuário deve instalar o PHP em https://www.php.net/downloads.php
+
+O usuário deve instalar o COMPOSER em https://getcomposer.org/download/
+
+O usuário deve instalar o XAMPP em https://www.apachefriends.org/pt_br/index.html
+
+</p>
+</p>
+
+## Execução
+
+Para se conectar ao aplicativo deve-se iniciar o XAMPP, iniciar o módulo do Apache e depois o do MySQL, abrir o terminal dentro da pasta do arquivo, digitar <php artisan serve>, acessar o endereço IP que consta no terminal junto com a porta e digitar o endereço do subdiretório "pesquisa".
+  
+Exemplo: http://127.0.0.1:8000/pesquisa
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
