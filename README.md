@@ -14,11 +14,11 @@ O usuário deve instalar o XAMPP no [site oficial do XAMPP](https://www.apachefr
 
 Para se conectar ao aplicativo deve-se iniciar o XAMPP, iniciar o módulo do Apache e depois o do MySQL, abrir o PowerShell do Windows ou terminal do Unix (Linux), digitar
 
-```php artisan serve``` 
+```php artisan migrate```
 
 e posteriormente 
 
-```php artisan migrate```, acessar o endereço IP que consta no terminal junto com a porta e digitar o endereço do subdiretório "pesquisa".
+```php artisan serve``` , acessar o endereço IP que consta no terminal junto com a porta e digitar o endereço do subdiretório "pesquisa".
   
 Exemplo: http://127.0.0.1:8000/pesquisa
 
