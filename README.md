@@ -1,25 +1,25 @@
-# Projeto de Pesquisa para Crédito Consignado
-## Instalação
+# Research Project for Payroll Loan
+## Installation
 
-O usuário deve instalar o PHP no [site oficial do PHP](https://www.php.net/downloads.php)
+User must install PHP from [official PHP site](https://www.php.net/downloads.php)
 
-O usuário deve instalar o COMPOSER no [site oficial do COMPOSER](https://getcomposer.org/download/)
+The user must install COMPOSER on the [COMPOSER official website](https://getcomposer.org/download/)
 
-O usuário deve instalar o XAMPP no [site oficial do XAMPP](https://www.apachefriends.org/pt_br/index.html)
+The user must install XAMPP from the [official XAMPP website](https://www.apachefriends.org/pt_br/index.html)
 
 </p>
 </p>
 
-## Execução
+## Execution
 
-Para se conectar ao aplicativo deve-se iniciar o XAMPP, iniciar o módulo do Apache e depois o do MySQL, abrir o PowerShell do Windows ou terminal do Unix (Linux), digitar
+To connect to the application you must start XAMPP, start the Apache module and then MySQL, open Windows PowerShell or Unix (Linux) terminal, type
 
 ```php artisan migrate```
 
-e posteriormente 
+and after
 
-```php artisan serve``` , acessar o endereço IP que consta no terminal junto com a porta e digitar o endereço do subdiretório "pesquisa".
+```php artisan serve``` , access the IP address that appears in the terminal along with the port and enter the address of the "pesquisa" subdirectory.
   
-Exemplo: http://127.0.0.1:8000/pesquisa
+Example: http://127.0.0.1:8000/pesquisa
 
 
